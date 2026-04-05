@@ -72,7 +72,7 @@ portfolio-website/
 ```html
 <header class="header">
     <nav class="navbar">
-        <div class="logo">Jalel Masmoudi</div>
+        <div class="logo">Mahdi Kammoun</div>
         <ul class="nav-links">
             <li><a href="#about">About</a></li>
             <li><a href="#skills">Skills</a></li>
@@ -88,7 +88,7 @@ portfolio-website/
 ```html
 <section class="hero">
     <div class="hero-content">
-        <h1>Hi! I'm Jalel Masmoudi</h1>
+        <h1>Hi! I'm Mahdi Kammoun</h1>
         <p>Computer Science Student | Problem Solver | Algorithms Enthusiast</p>
         <a href="#projects" class="cta-button">View My Work</a>
     </div>
@@ -103,7 +103,7 @@ portfolio-website/
         <img src="assets/images/about.jpg" alt="Profile">
         <div class="about-text">
             <h2>About Me</h2>
-            <p>I'm a 19-year-old CS student from Tunisia...</p>
+            <p>I'm a 20-year-old CS student from Tunisia...</p>
             <p>My passion lies in solving complex problems...</p>
             <div class="stats">
                 <div class="stat">
@@ -313,7 +313,7 @@ document.querySelectorAll('.fade-on-scroll').forEach(el => {
 ### Clone & Open
 ```bash
 # Clone repository
-git clone https://github.com/jalel-masmoudi/portfolio-website.git
+git clone (https://github.com/madee16/portfoliowebsite)
 cd portfolio-website
 
 # Open in browser
